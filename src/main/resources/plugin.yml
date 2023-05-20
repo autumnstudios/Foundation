@@ -1,0 +1,4 @@
+name: Foundation
+version: '${project.version}'
+main: com.autumnstudios.libraries.foundation.Foundation
+api-version: 1.19
