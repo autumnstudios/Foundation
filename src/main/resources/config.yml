@@ -1,0 +1,4 @@
+only-api: false
+
+# Setting to true will enable the module, false will disable
+gamemode: true # Gamemode module proving /gamemode <text>, /gmc, /gms, /gmsp, /gma
